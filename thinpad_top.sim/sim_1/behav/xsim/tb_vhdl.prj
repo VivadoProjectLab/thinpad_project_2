@@ -1,0 +1,8 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../thinpad_top.srcs/sources_1/new/ALU.vhd" \
+"../../../../thinpad_top.srcs/sources_1/new/ComputePart.vhd" \
+"../../../../thinpad_top.srcs/sources_1/new/StateMachine.vhd" \
+
+# Do not sort compile order
+nosort

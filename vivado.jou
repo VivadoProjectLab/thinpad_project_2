@@ -2,35 +2,12 @@
 # Vivado v2018.2 (64-bit)
 # SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
 # IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
-# Start of session at: Tue Oct 16 19:51:07 2018
-# Process ID: 17496
-# Current directory: D:/Tsinghua/2018autumn/VivadoProject/thinpad_top
-# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent44160 D:\Tsinghua\2018autumn\VivadoProject\thinpad_top\thinpad_top.xpr
-# Log file: D:/Tsinghua/2018autumn/VivadoProject/thinpad_top/vivado.log
-# Journal file: D:/Tsinghua/2018autumn/VivadoProject/thinpad_top\vivado.jou
+# Start of session at: Sat Oct 20 17:07:44 2018
+# Process ID: 16068
+# Current directory: D:/Tsinghua/2018autumn/VivadoProject/thinpad_top_project_2
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent34420 D:\Tsinghua\2018autumn\VivadoProject\thinpad_top_project_2\thinpad_top.xpr
+# Log file: D:/Tsinghua/2018autumn/VivadoProject/thinpad_top_project_2/vivado.log
+# Journal file: D:/Tsinghua/2018autumn/VivadoProject/thinpad_top_project_2\vivado.jou
 #-----------------------------------------------------------
 start_gui
-open_project D:/Tsinghua/2018autumn/VivadoProject/thinpad_top/thinpad_top.xpr
-update_compile_order -fileset sources_1
-update_compile_order -fileset sources_1
-update_compile_order -fileset sources_1
-update_compile_order -fileset sources_1
-reset_run synth_1
-launch_runs impl_1 -to_step write_bitstream -jobs 4
-wait_on_run impl_1
-reset_run synth_1
-launch_runs impl_1 -to_step write_bitstream -jobs 4
-wait_on_run impl_1
-reset_run impl_1
-reset_run synth_1
-launch_runs impl_1 -to_step write_bitstream -jobs 4
-wait_on_run impl_1
-reset_run synth_1
-launch_runs impl_1 -to_step write_bitstream -jobs 4
-wait_on_run impl_1
-reset_run synth_1
-launch_runs impl_1 -to_step write_bitstream -jobs 4
-wait_on_run impl_1
-reset_run synth_1
-launch_runs impl_1 -to_step write_bitstream -jobs 4
-wait_on_run impl_1
+open_project D:/Tsinghua/2018autumn/VivadoProject/thinpad_top_project_2/thinpad_top.xpr
